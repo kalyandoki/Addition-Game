@@ -46,7 +46,7 @@ function AdditionGame() {
           alt="maths"
           className="w-72 h-72 rounded-lg"
         />
-        <div className="w-96 h-40 bg-slate-500 rounded-xl flex items-center justify-center">
+        <div className="md:w-96 w-72 h-40 bg-slate-500 rounded-xl flex items-center justify-center">
           <h1 className="w-12 h-10 rounded-xl bg-white text-center">
             {firstValue}
           </h1>
